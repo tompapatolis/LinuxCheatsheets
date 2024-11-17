@@ -1,5 +1,5 @@
 
-![[tux.jpg]]
+![tux](tux.webp)
 # Linux Cheatsheets Repository 
 
 Welcome to the **Linux Cheatsheets** repository—a growing collection of simple, practical, and easy-to-use cheatsheets designed for new Linux users. Whether you're just starting with Linux or need quick reference guides, this repository is here to help you navigate and master the Linux terminal with confidence.
