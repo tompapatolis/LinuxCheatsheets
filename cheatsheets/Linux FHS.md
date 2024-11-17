@@ -1,6 +1,3 @@
----
-cssclasses: page-wide
----
 # Understanding the Linux Filesystem
 
 The Linux filesystem is organized into a tree-like hierarchy starting from the root directory `/`. Below is a table summarizing the purpose of each primary folder, followed by detailed explanations for each.

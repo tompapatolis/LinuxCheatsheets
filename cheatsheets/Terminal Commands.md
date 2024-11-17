@@ -1,7 +1,3 @@
----
-cssclass: page-wide
----
-
 # Basic Terminal Commands in Linux
 
 ## Command Reference Table
